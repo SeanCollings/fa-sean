@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils getFilterProperties should return an empty object if no state is passed in 1`] = `Object {}`;
+
+exports[`utils getFilterProperties should return initial state if no properties passed in 1`] = `
+Object {
+  "gender": Object {
+    "display": "Men",
+    "field": "male",
+  },
+  "sort": Object {
+    "display": "Price Low to High",
+    "field": "price_low",
+  },
+}
+`;
+
+exports[`utils getFilterProperties should return updated gender property 1`] = `
+Object {
+  "gender": Object {
+    "display": "Kids",
+    "field": "kids",
+  },
+  "sort": Object {
+    "display": "Price Low to High",
+    "field": "price_low",
+  },
+}
+`;
+
+exports[`utils getFilterProperties should return updated sort property 1`] = `
+Object {
+  "gender": Object {
+    "display": "Men",
+    "field": "male",
+  },
+  "sort": Object {
+    "display": "Brand A to Z",
+    "field": "brand_asc",
+  },
+}
+`;
+
+exports[`utils getProductUrl should return product url with default paramaters 1`] = `"https://eve.theiconic.com.au/catalog/products?gender=female&page=1&page_size=10&sort=popularity"`;
+
+exports[`utils getProductUrl should return product url with updated gender paramater 1`] = `"https://eve.theiconic.com.au/catalog/products?gender=male&page=1&page_size=10&sort=popularity"`;
+
+exports[`utils getProductUrl should return product url with updated sort paramater 1`] = `"https://eve.theiconic.com.au/catalog/products?gender=female&page=1&page_size=10&sort=price_high"`;

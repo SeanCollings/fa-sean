@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`use action hook should return 1`] = `
+Object {
+  "updateFilter": [Function],
+}
+`;
