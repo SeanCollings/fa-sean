@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App unit test should render 1`] = `
+<div
+  className="sc-fKFyDc jZUdTc"
+>
+  <div
+    className="sc-gKsewC ezMuak"
+  >
+    <div
+      className="sc-pFZIQ dKPBra"
+    >
+      <div
+        className="sc-iBPRYJ igIkBL"
+      >
+        <div
+          className="sc-hKgILt cvTavO"
+        >
+          <div
+            className="sc-eCssSg cGdqlL"
+            onClick={[Function]}
+          >
+            <div>
+              Women
+            </div>
+            <div
+              className="sc-jSgupP hDMCDB"
+            />
+          </div>
+          <div
+            className="sc-eCssSg cGdqlL"
+            onClick={[Function]}
+          >
+            <div>
+              Men
+            </div>
+          </div>
+          <div
+            className="sc-eCssSg cGdqlL"
+            onClick={[Function]}
+          >
+            <div>
+              Kids
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-jrAGrp czFpDo"
+      >
+        <div
+          className="sc-fubCfw gfiPIt"
+          onClick={[Function]}
+        >
+          Fa-sean
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-bBXqnf iyKlty"
+  >
+    <div>
+      <div
+        className="sc-dIUggk eHYCqR"
+      >
+        Women
+        's Clothing
+      </div>
+      <div
+        className="sc-crrsfI eOJQly"
+      >
+        <div
+          className="sc-dQppl exHpdh"
+        >
+          <select
+            className="sc-iqHYGH fdGNPn"
+            id="sort"
+            name="sort"
+            onChange={[Function]}
+          >
+            <option
+              value="popularity"
+            >
+              Popularity
+            </option>
+            <option
+              value="new"
+            >
+              New Arrivals
+            </option>
+            <option
+              value="price_high"
+            >
+              Price High to Low
+            </option>
+            <option
+              value="price_low"
+            >
+              Price Low to High
+            </option>
+            <option
+              value="brand_asc"
+            >
+              Brand A to Z
+            </option>
+            <option
+              value="brand_desc"
+            >
+              Brand Z to A
+            </option>
+          </select>
+        </div>
+      </div>
+      <div
+        className="sc-kfzAmx aYMdN"
+      />
+      <div>
+        No results
+      </div>
+    </div>
+  </div>
+  <footer
+    className="sc-bdfBwQ fvPrKx"
+  >
+    <div
+      className="sc-gsTCUz bFsUWP"
+    >
+      <div>
+        <a
+          className="sc-dlfnbm cDFxQC"
+          href="https://www.theiconic.com.au/"
+          target="_blank"
+        >
+          The Iconic
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

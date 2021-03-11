@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`gender-fields unit test should render 1`] = `
+<div
+  className="sc-dlfnbm ePhyqK"
+>
+  <div
+    className="sc-hKgILt isxsAx"
+  >
+    <select
+      className="sc-gsTCUz dmkZhF"
+      id="sort"
+      name="sort"
+      onChange={[Function]}
+    >
+      <option
+        value="popularity"
+      >
+        Popularity
+      </option>
+      <option
+        value="new"
+      >
+        New Arrivals
+      </option>
+      <option
+        value="price_high"
+      >
+        Price High to Low
+      </option>
+      <option
+        value="price_low"
+      >
+        Price Low to High
+      </option>
+      <option
+        value="brand_asc"
+      >
+        Brand A to Z
+      </option>
+      <option
+        value="brand_desc"
+      >
+        Brand Z to A
+      </option>
+    </select>
+  </div>
+</div>
+`;

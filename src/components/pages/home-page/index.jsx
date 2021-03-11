@@ -41,7 +41,7 @@ const HomePage = () => {
   return (
     <div>
       {loading && <SLoading>Loading...</SLoading>}
-      <SHeading>{gender.display}'s Clothing</SHeading>
+      {gender && <SHeading>{gender.display}'s Clothing</SHeading>}
       <SortDropdown />
       {error && <SError>Error: {error}</SError>}
       <SPadding />

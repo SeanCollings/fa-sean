@@ -68,13 +68,10 @@ const ProductsPage = () => {
   const { results, loading } = useSelector(({ filter }) => filter);
   const [products, setProducts] = useState([]);
 
-  console.log('results,results', results);
-  console.log('products,products', products);
-
   useEffect(() => {
     if (results) {
       const { _embedded } = results;
-      setProducts(_embedded.product);
+      setProducts(_embedded?.product);
     }
   }, [results]);
 

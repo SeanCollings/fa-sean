@@ -1,0 +1,621 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Products-page unit test should render in loading state 1`] = `
+<div
+  className="sc-bdfBwQ dHLtbb"
+>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="GT-2000 9 (D Wide) - Women's"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/asics-7897-5644911-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          GT-2000 9 (D Wide) - Women's
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          220.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Maternity Power Moves Full Length Tights"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/running-bare-9116-2278021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Maternity Power Moves Full Length Tights
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          129.99
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Combat Leggings"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/pe-nation-3274-5782021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Combat Leggings
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          119.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Epic Luxe Trail Running Shorts"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/nike-9019-4398011-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Epic Luxe Trail Running Shorts
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          75.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Opponent Sweat"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/pe-nation-3284-5882021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Opponent Sweat
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          149.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Jump Ball Leggings"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/pe-nation-3303-0582021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Jump Ball Leggings
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          129.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="GEL-Nimbus 23 - Women's"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/asics-7843-5844911-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          GEL-Nimbus 23 - Women's
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          240.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="The Nike Yoga Luxe Tank"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/nike-8972-6988011-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          The Nike Yoga Luxe Tank
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          65.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Queen Pillowcase Invisible Zipper Closure"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/slip-8743-8174021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Queen Pillowcase Invisible Zipper Closure
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          95.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Ab Tastic Studio Full Length Tights"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/running-bare-3793-0178021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Ab Tastic Studio Full Length Tights
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          119.99
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div />
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div />
+  </div>
+</div>
+`;
+
+exports[`Products-page unit test should render with no results 1`] = `
+<div>
+  No results
+</div>
+`;
+
+exports[`Products-page unit test should render with results 1`] = `
+<div
+  className="sc-bdfBwQ gsSLVX"
+>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="GT-2000 9 (D Wide) - Women's"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/asics-7897-5644911-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          GT-2000 9 (D Wide) - Women's
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          220.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Maternity Power Moves Full Length Tights"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/running-bare-9116-2278021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Maternity Power Moves Full Length Tights
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          129.99
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Combat Leggings"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/pe-nation-3274-5782021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Combat Leggings
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          119.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Epic Luxe Trail Running Shorts"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/nike-9019-4398011-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Epic Luxe Trail Running Shorts
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          75.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Opponent Sweat"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/pe-nation-3284-5882021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Opponent Sweat
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          149.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Jump Ball Leggings"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/pe-nation-3303-0582021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Jump Ball Leggings
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          129.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="GEL-Nimbus 23 - Women's"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/asics-7843-5844911-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          GEL-Nimbus 23 - Women's
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          240.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="The Nike Yoga Luxe Tank"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/nike-8972-6988011-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          The Nike Yoga Luxe Tank
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          65.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Queen Pillowcase Invisible Zipper Closure"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/slip-8743-8174021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Queen Pillowcase Invisible Zipper Closure
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          95.00
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div
+      className="sc-dlfnbm eQdVeb"
+      onClick={[Function]}
+    >
+      <img
+        alt="Ab Tastic Studio Full Length Tights"
+        className="sc-hKgILt iiagxy"
+        src="http://static.theiconic.com.au/p/running-bare-3793-0178021-1.jpg"
+      />
+      <div
+        className="sc-eCssSg iEsPSE"
+      >
+        <div
+          className="sc-jSgupP bKXZcA"
+        >
+          Ab Tastic Studio Full Length Tights
+        </div>
+        <div
+          className="sc-gKsewC dcpaIV"
+        >
+          $
+          119.99
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div />
+  </div>
+  <div
+    className="sc-gsTCUz buLuPe"
+  >
+    <div />
+  </div>
+</div>
+`;

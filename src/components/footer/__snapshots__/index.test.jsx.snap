@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`footer unit test should render 1`] = `
+<footer
+  className="sc-bdfBwQ fvPrKx"
+>
+  <div
+    className="sc-gsTCUz bFsUWP"
+  >
+    <div>
+      <a
+        className="sc-dlfnbm cDFxQC"
+        href="https://www.theiconic.com.au/"
+        target="_blank"
+      >
+        The Iconic
+      </a>
+    </div>
+  </div>
+</footer>
+`;

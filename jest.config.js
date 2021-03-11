@@ -7,6 +7,7 @@ module.exports = {
     '!**/node_modules/**',
     '!**/babel.config.js',
     '!**/jest.setup.js',
+    '!**/config/**',
   ],
   coveragePathIgnorePatterns: ['jest.config.js'],
   testEnvironment: 'jsdom',

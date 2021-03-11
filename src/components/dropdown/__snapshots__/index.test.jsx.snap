@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dropdown unit test should render with label 1`] = `
+Array [
+  <label
+    className="sc-bdfBwQ iEvZEX"
+    htmlFor="dropdown_test"
+  >
+    labelText_test
+  </label>,
+  <select
+    className="sc-gsTCUz dmkZhF"
+    id="dropdown_test"
+    name="dropdown_test"
+    onChange={[MockFunction]}
+  >
+    <option
+      value="popularity"
+    >
+      Popularity
+    </option>
+    <option
+      value="new"
+    >
+      New Arrivals
+    </option>
+    <option
+      value="price_high"
+    >
+      Price High to Low
+    </option>
+    <option
+      value="price_low"
+    >
+      Price Low to High
+    </option>
+    <option
+      value="brand_asc"
+    >
+      Brand A to Z
+    </option>
+    <option
+      value="brand_desc"
+    >
+      Brand Z to A
+    </option>
+  </select>,
+]
+`;
+
+exports[`dropdown unit test should render without label 1`] = `
+<select
+  className="sc-gsTCUz dmkZhF"
+  id="dropdown_test"
+  name="dropdown_test"
+  onChange={[MockFunction]}
+>
+  <option
+    value="popularity"
+  >
+    Popularity
+  </option>
+  <option
+    value="new"
+  >
+    New Arrivals
+  </option>
+  <option
+    value="price_high"
+  >
+    Price High to Low
+  </option>
+  <option
+    value="price_low"
+  >
+    Price Low to High
+  </option>
+  <option
+    value="brand_asc"
+  >
+    Brand A to Z
+  </option>
+  <option
+    value="brand_desc"
+  >
+    Brand Z to A
+  </option>
+</select>
+`;

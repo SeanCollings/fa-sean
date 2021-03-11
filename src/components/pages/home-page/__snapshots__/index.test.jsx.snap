@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home-page unit test should render 1`] = `
+<div>
+  <div
+    className="sc-kEjbxe eiKVnp"
+  >
+    Women
+    's Clothing
+  </div>
+  <div
+    className="sc-dlfnbm ePhyqK"
+  >
+    <div
+      className="sc-hKgILt isxsAx"
+    >
+      <select
+        className="sc-gsTCUz dmkZhF"
+        id="sort"
+        name="sort"
+        onChange={[Function]}
+      >
+        <option
+          value="popularity"
+        >
+          Popularity
+        </option>
+        <option
+          value="new"
+        >
+          New Arrivals
+        </option>
+        <option
+          value="price_high"
+        >
+          Price High to Low
+        </option>
+        <option
+          value="price_low"
+        >
+          Price Low to High
+        </option>
+        <option
+          value="brand_asc"
+        >
+          Brand A to Z
+        </option>
+        <option
+          value="brand_desc"
+        >
+          Brand Z to A
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    className="sc-dQppl iKWldT"
+  />
+  <div>
+    No results
+  </div>
+</div>
+`;
+
+exports[`Home-page unit test should render with error 1`] = `
+<div>
+  <div
+    className="sc-kEjbxe eiKVnp"
+  >
+    Women
+    's Clothing
+  </div>
+  <div
+    className="sc-dlfnbm ePhyqK"
+  >
+    <div
+      className="sc-hKgILt isxsAx"
+    >
+      <select
+        className="sc-gsTCUz dmkZhF"
+        id="sort"
+        name="sort"
+        onChange={[Function]}
+      >
+        <option
+          value="popularity"
+        >
+          Popularity
+        </option>
+        <option
+          value="new"
+        >
+          New Arrivals
+        </option>
+        <option
+          value="price_high"
+        >
+          Price High to Low
+        </option>
+        <option
+          value="price_low"
+        >
+          Price Low to High
+        </option>
+        <option
+          value="brand_asc"
+        >
+          Brand A to Z
+        </option>
+        <option
+          value="brand_desc"
+        >
+          Brand Z to A
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    className="sc-crrsfI kWGprI"
+  >
+    Error: 
+    This is an error
+  </div>
+  <div
+    className="sc-dQppl iKWldT"
+  />
+  <div>
+    No results
+  </div>
+</div>
+`;
+
+exports[`Home-page unit test should render with loading 1`] = `
+<div>
+  <div
+    className="sc-iqHYGH deYOiC"
+  >
+    Loading...
+  </div>
+  <div
+    className="sc-kEjbxe eiKVnp"
+  >
+    Women
+    's Clothing
+  </div>
+  <div
+    className="sc-dlfnbm ePhyqK"
+  >
+    <div
+      className="sc-hKgILt isxsAx"
+    >
+      <select
+        className="sc-gsTCUz dmkZhF"
+        id="sort"
+        name="sort"
+        onChange={[Function]}
+      >
+        <option
+          value="popularity"
+        >
+          Popularity
+        </option>
+        <option
+          value="new"
+        >
+          New Arrivals
+        </option>
+        <option
+          value="price_high"
+        >
+          Price High to Low
+        </option>
+        <option
+          value="price_low"
+        >
+          Price Low to High
+        </option>
+        <option
+          value="brand_asc"
+        >
+          Brand A to Z
+        </option>
+        <option
+          value="brand_desc"
+        >
+          Brand Z to A
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    className="sc-dQppl iKWldT"
+  />
+  <div>
+    No results
+  </div>
+</div>
+`;
