@@ -1,12 +1,12 @@
 # Overview
 
-This is a small application which pulls fashion data from an external API from The Iconic. A user is able to see the first 10 results for a combination of gender and sort filters. Page size and page number are available put have not been implemented yet.
+This is a small application which pulls fashion data from an external API from The Iconic. A user is able to see the first 10 results for a combination of gender and sort filters. Page size and page number are available but have not been implemented yet.
 
 # Instructions
 
 1) Install dependecies 
 ```
-yard install or npm install
+yarn install or npm install
 ```
 
 2) To run the dev environment after installation
